@@ -16,6 +16,7 @@
 - [주니어 개발자 인터뷰](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 - [Back-End 개발자 인터뷰](https://github.com/NESOY/Back-end-Developer-Interview-Questions)
 - [Web Developer RoadMap](https://github.com/kamranahmedse/developer-roadmap)
+- [DataScience 인터뷰](https://github.com/zzsza/Datascience-Interview-Questions)
 
 # Slide
 - [Become a Backend Developer](https://speakerdeck.com/mingrammer/become-a-backend-developer)
