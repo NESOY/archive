@@ -35,7 +35,9 @@
 - [2017 회고 - Nesoy님](https://nesoy.github.io/articles/2018-01/2017-retrospective)
 
 # Setting
+## Mac
 - [Mac Setting](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)
+## Intellij
 - [Theme 적용하기](https://nesoy.github.io/articles/2018-03/Intellij-Theme)
 - [Grep Console](https://nesoy.github.io/articles/2018-04/Intellij-grepcode)
 
