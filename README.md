@@ -3,10 +3,12 @@
 
 ## Seminar
 #### 2018
+- [AWS Summit - 후기 모음집](https://aws.amazon.com/ko/blogs/korea/aws-summit-2018-customer-voices/)
 - [2018 Women Techmakers Korea 참가 후기 - 강영화님](https://spoqa.github.io/2018/04/18/review-wtmkorea.html)
 - [Little Big Data 후기 - Nesoy님](https://nesoy.github.io/articles/2018-04/Little-Big-Data)
 - [Little Big Data 후기 - 변셩윤님](https://zzsza.github.io/etc/2018/04/21/little-big-data/)
 - [Spring Camp 2018 - 성준님](https://gwonsungjun.github.io/seminar/2018/04/22/springCamp2018/)
+
 #### 2017
 - [OKKYCON 2017 참석후기 - 창천향로님](https://okky.kr/article/431231)
 
@@ -19,10 +21,12 @@
 - [Back-End 개발자 인터뷰](https://github.com/NESOY/Back-end-Developer-Interview-Questions)
 - [Web Developer RoadMap](https://github.com/kamranahmedse/developer-roadmap)
 - [DataScience 인터뷰](https://github.com/zzsza/Datascience-Interview-Questions)
+- [프로그래머가 되는 방법](https://wiki.kldp.org/wiki.php/HowToBeAProgrammer)
 
 -------
 
 ## Slide
+- [한국어 채팅 데이터로 머신러닝 하기](https://www.slideshare.net/hanseokjo5/little-big-data-1-94862151)
 - [Become a Backend Developer](https://speakerdeck.com/mingrammer/become-a-backend-developer)
 - [한국어와 NLTK, Gensim의 만남](https://www.lucypark.kr/docs/2015-pyconkr/#1)
 - [신입사원을 위한 웹서비스 확장 전략](https://www.slideshare.net/charsyam2/webservice-scaling-for-newbie)
@@ -50,8 +54,11 @@
 - [Scrum for Trello](https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje)
 - [OctoTree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=ko)
 - [Hovercard](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk)
+- [Better History](https://chrome.google.com/webstore/detail/better-history/obciceimmggglbmelaidpjlmodcebijb)
+
 #### Mac
 - [Mac Setting](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)
+
 #### Intellij
 - [Theme 적용하기](https://nesoy.github.io/articles/2018-03/Intellij-Theme)
 - [Grep Console](https://nesoy.github.io/articles/2018-04/Intellij-grepcode)
