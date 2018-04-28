@@ -42,6 +42,7 @@
 ## Design Pattern
 - [Refactoring](https://refactoring.guru/)
 - [Clean Code](https://www.gitbook.com/book/kwosu87/clean-code)
+- [10가지 소프트웨어 아키텍쳐 패턴 요약](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell/)
 
 -------
 
