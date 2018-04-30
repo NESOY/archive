@@ -3,11 +3,11 @@
 
 ## Seminar
 #### 2018
-- [NDC 2018 야생의 땅 듀랑고 세션 정리](https://winterj.me/ndc2018-durango/)
+- [NDC 2018 야생의 땅 듀랑고 세션 정리 - WinterJ님](https://winterj.me/ndc2018-durango/)
 - [AWS Summit - 후기 모음집](https://aws.amazon.com/ko/blogs/korea/aws-summit-2018-customer-voices/)
 - [2018 Women Techmakers Korea 참가 후기 - 강영화님](https://spoqa.github.io/2018/04/18/review-wtmkorea.html)
 - [Little Big Data 후기 - Nesoy님](https://nesoy.github.io/articles/2018-04/Little-Big-Data)
-- [Little Big Data 후기 - 변셩윤님](https://zzsza.github.io/etc/2018/04/21/little-big-data/)
+- [Little Big Data 후기 - 변성윤님](https://zzsza.github.io/etc/2018/04/21/little-big-data/)
 - [Spring Camp 2018 - 성준님](https://gwonsungjun.github.io/seminar/2018/04/22/springCamp2018/)
 
 #### 2017
