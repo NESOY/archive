@@ -3,6 +3,7 @@
 
 ## Seminar
 #### 2018
+- [우아한 Tech MeetUp - 권희정님](https://gmlwjd9405.github.io/2018/04/27/woowabros-tech-meetup.html)
 - [NDC 2018 야생의 땅 듀랑고 세션 정리 - WinterJ님](https://winterj.me/ndc2018-durango/)
 - [AWS Summit - 후기 모음집](https://aws.amazon.com/ko/blogs/korea/aws-summit-2018-customer-voices/)
 - [2018 Women Techmakers Korea 참가 후기 - 강영화님](https://spoqa.github.io/2018/04/18/review-wtmkorea.html)
