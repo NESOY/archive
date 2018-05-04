@@ -62,6 +62,7 @@
 
 #### Mac
 - [Mac Setting](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)
+- [화면 보호기](https://plus.google.com/featuredphotos)
 
 #### Intellij
 - [Theme 적용하기](https://nesoy.github.io/articles/2018-03/Intellij-Theme)
