@@ -32,6 +32,12 @@
 - [Become a Backend Developer](https://speakerdeck.com/mingrammer/become-a-backend-developer)
 - [한국어와 NLTK, Gensim의 만남](https://www.lucypark.kr/docs/2015-pyconkr/#1)
 - [신입사원을 위한 웹서비스 확장 전략](https://www.slideshare.net/charsyam2/webservice-scaling-for-newbie)
+- [자습해도 모르겠던 딥러닝, 머리속에 인스톨 시켜드립니다.](https://www.slideshare.net/yongho/ss-79607172)
+- [야생의 땅 듀랑고의 데이터 엔지니어링 이야기: 로그 시스템 구축 경험 공유 - Part1](https://www.slideshare.net/ssuser380e9c/ndc18-95524337)
+- [야생의 땅 듀랑고의 데이터 엔지니어링 이야기: 로그 시스템 구축 경험 공유 - Part2](https://www.slideshare.net/ssuser380e9c/ndc18-2-95522893)
+- [〈야생의 땅: 듀랑고〉 서버 아키텍처 Vol. 1](https://www.slideshare.net/sublee/spof-mmorpg)
+- [〈야생의 땅: 듀랑고〉 서버 아키텍처 Vol. 2](https://www.slideshare.net/sublee/lt-vol-2)
+- [〈야생의 땅: 듀랑고〉 서버 아키텍처 Vol. 3](https://www.slideshare.net/sublee/vol-3-95472828)
 
 -------
 
