@@ -73,6 +73,10 @@
 
 -------
 ## Book
+- [Nudge](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=3587535)
 - [Clean Code](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=34083680&start=slayer)
 - [Refactoring](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=20793053&start=slayer)
 - [자바 웹 프로그래밍 Next Step](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=91501933&start=slayer)
+- [프로가 되기 위한 웹 기술 입문](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=16248859)
+- [자바 8 in Action](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=54967448&start=slayer)
+- [DDD Start!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=84000742&start=slayer)
