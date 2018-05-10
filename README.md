@@ -76,6 +76,7 @@
 - [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
 - [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
 - [Save Action](https://plugins.jetbrains.com/plugin/7642-save-actions)
+- [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore)
 
 -------
 ## Book
