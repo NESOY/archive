@@ -89,3 +89,8 @@
 - [프로가 되기 위한 웹 기술 입문](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=16248859)
 - [자바 8 in Action](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=54967448&start=slayer)
 - [DDD Start!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=84000742&start=slayer)
+
+
+-------
+## Video
+- [Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E)
