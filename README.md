@@ -25,7 +25,12 @@
 - [Web Developer RoadMap](https://github.com/kamranahmedse/developer-roadmap)
 - [DataScience 인터뷰](https://github.com/zzsza/Datascience-Interview-Questions)
 - [프로그래머가 되는 방법](https://wiki.kldp.org/wiki.php/HowToBeAProgrammer)
+-------
+
+## 개발관련 글
 - [개발자처럼 생각하는 방법 - 문제 해결의 교훈](https://www.vobour.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EC%9D%98-%EA%B5%90%ED%9B%88-how-to-think-l)
+- [소프트웨어 개발의 지혜 - Eddy Kim님](https://brunch.co.kr/@springboot/35)
+
 -------
 
 ## Slide
@@ -89,6 +94,9 @@
 - [프로가 되기 위한 웹 기술 입문](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=16248859)
 - [자바 8 in Action](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=54967448&start=slayer)
 - [DDD Start!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=84000742&start=slayer)
+- [켄트 벡의 구현 패턴](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1706106)
+- [실용주의 프로그래머](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=38786788)
+- [Effective Java](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=45350567)
 
 
 -------
