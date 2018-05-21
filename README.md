@@ -102,3 +102,10 @@
 -------
 ## Video
 - [Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E)
+
+
+-------
+## Paper
+- [Large-scale Incremental Processing
+Using Distributed Transactions and Notifications](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36726.pdf)
+- [Software Engineering at Google](https://arxiv.org/pdf/1702.01715.pdf)
