@@ -1,9 +1,10 @@
 # archive
-- 좋은 글이나 정보들을 넘처나는데 북마크은 보기 불편하여 Markdown으로 작성합니다.
+- 좋은 글이나 정보들이 많지만 북마크는 보기 불편하여 Markdown으로 작성합니다.
 
 ## Seminar
 #### 2018
 - [Reviewing F8 Hackathon 2018 - 진유림님](https://www.slideshare.net/jayjin0427/reviewing-f8-hackathon-2018-97859109)
+- [NDC Replay](http://ndcreplay.nexon.com/)
 - [우아한 Tech MeetUp - 권희정님](https://gmlwjd9405.github.io/2018/04/27/woowabros-tech-meetup.html)
 - [NDC 2018 야생의 땅 듀랑고 세션 정리 - WinterJ님](https://winterj.me/ndc2018-durango/)
 - [AWS Summit - 후기 모음집](https://aws.amazon.com/ko/blogs/korea/aws-summit-2018-customer-voices/)
@@ -25,6 +26,11 @@
 - [Web Developer RoadMap](https://github.com/kamranahmedse/developer-roadmap)
 - [DataScience 인터뷰](https://github.com/zzsza/Datascience-Interview-Questions)
 - [프로그래머가 되는 방법](https://wiki.kldp.org/wiki.php/HowToBeAProgrammer)
+-------
+
+## 개발관련 글
+- [개발자처럼 생각하는 방법 - 문제 해결의 교훈](https://www.vobour.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EC%9D%98-%EA%B5%90%ED%9B%88-how-to-think-l)
+- [소프트웨어 개발의 지혜 - Eddy Kim님](https://brunch.co.kr/@springboot/35)
 
 -------
 
@@ -64,6 +70,7 @@
 #### Chrome
 - [Scrum for Trello](https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje)
 - [OctoTree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=ko)
+- [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp)
 - [Hovercard](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk)
 - [Better History](https://chrome.google.com/webstore/detail/better-history/obciceimmggglbmelaidpjlmodcebijb)
 
@@ -77,10 +84,29 @@
 - [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
 - [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
 - [Save Action](https://plugins.jetbrains.com/plugin/7642-save-actions)
+- [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore)
 
 -------
 ## Book
+- [Nudge](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=3587535)
 - [Clean Code](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=34083680&start=slayer)
 - [Refactoring](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=20793053&start=slayer)
 - [자바 웹 프로그래밍 Next Step](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=91501933&start=slayer)
 - [프로가 되기 위한 웹 기술 입문](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=16248859)
+- [자바 8 in Action](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=54967448&start=slayer)
+- [DDD Start!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=84000742&start=slayer)
+- [켄트 벡의 구현 패턴](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1706106)
+- [실용주의 프로그래머](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=38786788)
+- [Effective Java](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=45350567)
+
+
+-------
+## Video
+- [Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E)
+
+
+-------
+## Paper
+- [Large-scale Incremental Processing
+Using Distributed Transactions and Notifications](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36726.pdf)
+- [Software Engineering at Google](https://arxiv.org/pdf/1702.01715.pdf)
