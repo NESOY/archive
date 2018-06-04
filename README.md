@@ -3,6 +3,7 @@
 
 ## Seminar
 #### 2018
+- [SI / 대기업에서 스타트업으로 이직하기 - 신현묵님](https://okky.kr/article/470785)
 - [Reviewing F8 Hackathon 2018 - 진유림님](https://www.slideshare.net/jayjin0427/reviewing-f8-hackathon-2018-97859109)
 - [NDC Replay](http://ndcreplay.nexon.com/)
 - [우아한 Tech MeetUp - 권희정님](https://gmlwjd9405.github.io/2018/04/27/woowabros-tech-meetup.html)
