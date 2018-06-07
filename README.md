@@ -51,6 +51,7 @@
 -------
 
 ## Machine Learning
+- [Machine Learning Rule](https://developers.google.com/machine-learning/rules-of-ml/)
 - [Learn with Google AI](https://ai.google/education#?modal_active=none)
 - [Kaggle](https://www.kaggle.com/)
 - [Machine Learning은 즐겁다](https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-1-9a0297198ad8)
