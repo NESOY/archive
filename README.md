@@ -30,6 +30,7 @@
 -------
 
 ## 개발 철학
+- [애자일 이야기](http://agile.egloos.com/)
 - [개발자처럼 생각하는 방법 - 문제 해결의 교훈](https://www.vobour.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EC%9D%98-%EA%B5%90%ED%9B%88-how-to-think-l)
 - [소프트웨어 개발의 지혜 - Eddy Kim님](https://brunch.co.kr/@springboot/35)
 
