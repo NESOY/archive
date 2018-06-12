@@ -31,6 +31,7 @@
 -------
 
 ## 개발 철학
+- [커리어 조언](http://www.ciokorea.com/news/30266)
 - [애자일 이야기](http://agile.egloos.com/)
 - [개발자처럼 생각하는 방법 - 문제 해결의 교훈](https://www.vobour.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EC%9D%98-%EA%B5%90%ED%9B%88-how-to-think-l)
 - [소프트웨어 개발의 지혜 - Eddy Kim님](https://brunch.co.kr/@springboot/35)
@@ -52,6 +53,8 @@
 -------
 
 ## Machine Learning
+- [작정하고 쓰는 머신러닝 강의 비판 - 1](https://pabii.co/fraud-in-machine-learning-classes/)
+- [작정하고 쓰는 머신러닝 강의 비판 - 2](https://pabii.co/fraud-in-machine-learning-classes-2/)
 - [Machine Learning Rule](https://developers.google.com/machine-learning/rules-of-ml/)
 - [Learn with Google AI](https://ai.google/education#?modal_active=none)
 - [Kaggle](https://www.kaggle.com/)
@@ -61,10 +64,18 @@
 -------
 
 ## Design Pattern & Architecture
+- [카카오헤어샵의 DDD](https://brunch.co.kr/@cg4jins/7)
 - [Refactoring](https://refactoring.guru/)
 - [Clean Code](https://www.gitbook.com/book/kwosu87/clean-code)
 - [10가지 소프트웨어 아키텍쳐 패턴 요약](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell/)
 - [What Powers Instagram: Hundreds of Instances, Dozens of Technologies](https://instagram-engineering.com/what-powers-instagram-hundreds-of-instances-dozens-of-technologies-adf2e22da2ad)
+
+-------
+
+## Database
+- [샤딩은 어떻게 동작하는가?](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
+- [RDB부터 검색엔진까지 내게 꼭 맞는 DB고르기](http://www.ciokorea.com/news/38041)
+
 -------
 
 ## Retrospective
