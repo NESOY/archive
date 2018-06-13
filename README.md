@@ -3,7 +3,12 @@
 
 ## Seminar
 #### 2018
+<<<<<<< HEAD
 - [AWSKRUG Review - 창천향로님](http://jojoldu.tistory.com/303)
+=======
+- [Google io extended Seoul 2018 - ideveloper2님](http://ideveloper2.tistory.com/m/98)
+- [SI / 대기업에서 스타트업으로 이직하기 - 신현묵님](https://okky.kr/article/470785)
+>>>>>>> 0937516362149419cd66d42f56fe534c102d8b9b
 - [Reviewing F8 Hackathon 2018 - 진유림님](https://www.slideshare.net/jayjin0427/reviewing-f8-hackathon-2018-97859109)
 - [NDC Replay](http://ndcreplay.nexon.com/)
 - [우아한 Tech MeetUp - 권희정님](https://gmlwjd9405.github.io/2018/04/27/woowabros-tech-meetup.html)
@@ -29,7 +34,9 @@
 - [프로그래머가 되는 방법](https://wiki.kldp.org/wiki.php/HowToBeAProgrammer)
 -------
 
-## 개발관련 글
+## 개발 철학
+- [커리어 조언](http://www.ciokorea.com/news/30266)
+- [애자일 이야기](http://agile.egloos.com/)
 - [개발자처럼 생각하는 방법 - 문제 해결의 교훈](https://www.vobour.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EC%9D%98-%EA%B5%90%ED%9B%88-how-to-think-l)
 - [소프트웨어 개발의 지혜 - Eddy Kim님](https://brunch.co.kr/@springboot/35)
 
@@ -50,16 +57,28 @@
 -------
 
 ## Machine Learning
+- [작정하고 쓰는 머신러닝 강의 비판 - 1](https://pabii.co/fraud-in-machine-learning-classes/)
+- [작정하고 쓰는 머신러닝 강의 비판 - 2](https://pabii.co/fraud-in-machine-learning-classes-2/)
+- [Machine Learning Rule](https://developers.google.com/machine-learning/rules-of-ml/)
 - [Learn with Google AI](https://ai.google/education#?modal_active=none)
 - [Kaggle](https://www.kaggle.com/)
 - [Machine Learning은 즐겁다](https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-1-9a0297198ad8)
+- [Kakao Brain Blog](http://kakaobrain.com/blog)
 
 -------
 
-## Design Pattern
+## Design Pattern & Architecture
+- [카카오헤어샵의 DDD](https://brunch.co.kr/@cg4jins/7)
 - [Refactoring](https://refactoring.guru/)
 - [Clean Code](https://www.gitbook.com/book/kwosu87/clean-code)
 - [10가지 소프트웨어 아키텍쳐 패턴 요약](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell/)
+- [What Powers Instagram: Hundreds of Instances, Dozens of Technologies](https://instagram-engineering.com/what-powers-instagram-hundreds-of-instances-dozens-of-technologies-adf2e22da2ad)
+
+-------
+
+## Database
+- [샤딩은 어떻게 동작하는가?](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
+- [RDB부터 검색엔진까지 내게 꼭 맞는 DB고르기](http://www.ciokorea.com/news/38041)
 
 -------
 
