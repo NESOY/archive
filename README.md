@@ -3,12 +3,9 @@
 
 ## Seminar
 #### 2018
-<<<<<<< HEAD
 - [AWSKRUG Review - 창천향로님](http://jojoldu.tistory.com/303)
-=======
 - [Google io extended Seoul 2018 - ideveloper2님](http://ideveloper2.tistory.com/m/98)
 - [SI / 대기업에서 스타트업으로 이직하기 - 신현묵님](https://okky.kr/article/470785)
->>>>>>> 0937516362149419cd66d42f56fe534c102d8b9b
 - [Reviewing F8 Hackathon 2018 - 진유림님](https://www.slideshare.net/jayjin0427/reviewing-f8-hackathon-2018-97859109)
 - [NDC Replay](http://ndcreplay.nexon.com/)
 - [우아한 Tech MeetUp - 권희정님](https://gmlwjd9405.github.io/2018/04/27/woowabros-tech-meetup.html)
