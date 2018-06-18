@@ -3,6 +3,7 @@
 
 ## Seminar
 #### 2018
+- [AWSKRUG Review - 창천향로님](http://jojoldu.tistory.com/303)
 - [Google io extended Seoul 2018 - ideveloper2님](http://ideveloper2.tistory.com/m/98)
 - [SI / 대기업에서 스타트업으로 이직하기 - 신현묵님](https://okky.kr/article/470785)
 - [Reviewing F8 Hackathon 2018 - 진유림님](https://www.slideshare.net/jayjin0427/reviewing-f8-hackathon-2018-97859109)
@@ -32,6 +33,7 @@
 
 ## 철학
 - [시간의 소중함](https://post.naver.com/viewer/postView.nhn?volumeNo=15968355&memberNo=3443084&navigationType=push)
+- [개발자 비급(祕笈) – 연봉은 실력의 결과가 아니다](http://channy.creation.net/blog/1186)
 - [커리어 조언](http://www.ciokorea.com/news/30266)
 - [애자일 이야기](http://agile.egloos.com/)
 - [개발자처럼 생각하는 방법 - 문제 해결의 교훈](https://www.vobour.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EC%9D%98-%EA%B5%90%ED%9B%88-how-to-think-l)
