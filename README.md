@@ -3,6 +3,7 @@
 
 ## Seminar
 #### 2018
+- [TDD 잘알못을 위한 돌직구 세미나 참석 후기 - 창천향로님](http://jojoldu.tistory.com/306)
 - [AWSKRUG Review - 창천향로님](http://jojoldu.tistory.com/303)
 - [Google io extended Seoul 2018 - ideveloper2님](http://ideveloper2.tistory.com/m/98)
 - [SI / 대기업에서 스타트업으로 이직하기 - 신현묵님](https://okky.kr/article/470785)
@@ -22,6 +23,7 @@
 -------
 
 ## Interview
+- [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170)
 - [Google Interview University](https://github.com/daeseokyoun/google-interview-university/blob/master/README-kr.md)
 - [주니어 개발자를 위한 취업정보](https://github.com/jojoldu/junior-recruit-scheduler)
 - [주니어 개발자 인터뷰](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
@@ -32,12 +34,18 @@
 -------
 
 ## 철학
+- [IT 개발자를 위한 글쓰기 가이드](http://www.ciokorea.com/news/38600)
 - [시간의 소중함](https://post.naver.com/viewer/postView.nhn?volumeNo=15968355&memberNo=3443084&navigationType=push)
 - [개발자 비급(祕笈) – 연봉은 실력의 결과가 아니다](http://channy.creation.net/blog/1186)
 - [커리어 조언](http://www.ciokorea.com/news/30266)
 - [애자일 이야기](http://agile.egloos.com/)
 - [개발자처럼 생각하는 방법 - 문제 해결의 교훈](https://www.vobour.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EC%9D%98-%EA%B5%90%ED%9B%88-how-to-think-l)
 - [소프트웨어 개발의 지혜 - Eddy Kim님](https://brunch.co.kr/@springboot/35)
+
+-------
+
+## 디자인
+- [디자인 가이드](https://p-j-m.github.io/design-compass/index.html)
 
 -------
 
