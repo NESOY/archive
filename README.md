@@ -34,6 +34,7 @@
 -------
 
 ## 철학
+- [Becoming a 10x Developer](http://muchtrans.com/10xdeveloper.html)
 - [IT 개발자를 위한 글쓰기 가이드](http://www.ciokorea.com/news/38600)
 - [시간의 소중함](https://post.naver.com/viewer/postView.nhn?volumeNo=15968355&memberNo=3443084&navigationType=push)
 - [개발자 비급(祕笈) – 연봉은 실력의 결과가 아니다](http://channy.creation.net/blog/1186)
