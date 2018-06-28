@@ -34,6 +34,7 @@
 -------
 
 ## 철학
+- [왜 제일 잘 하는 사람만 뽑는데도 좋은 팀이 꾸려지지 않을까?](http://newspeppermint.com/2018/02/05/bestpeopleleastresults/)
 - [Becoming a 10x Developer](http://muchtrans.com/10xdeveloper.html)
 - [IT 개발자를 위한 글쓰기 가이드](http://www.ciokorea.com/news/38600)
 - [시간의 소중함](https://post.naver.com/viewer/postView.nhn?volumeNo=15968355&memberNo=3443084&navigationType=push)
@@ -76,6 +77,7 @@
 -------
 
 ## Design Pattern & Architecture
+- [TDD는 죽었는가?](http://jinson.tistory.com/271)
 - [카카오헤어샵의 DDD](https://brunch.co.kr/@cg4jins/7)
 - [Refactoring](https://refactoring.guru/)
 - [Clean Code](https://www.gitbook.com/book/kwosu87/clean-code)
