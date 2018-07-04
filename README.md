@@ -34,6 +34,7 @@
 -------
 
 ## 철학
+- [프로그래머로 성장을 도왔던 태도들](http://ahnheejong.name/articles/becoming-better-programmer/)
 - [왜 제일 잘 하는 사람만 뽑는데도 좋은 팀이 꾸려지지 않을까?](http://newspeppermint.com/2018/02/05/bestpeopleleastresults/)
 - [Becoming a 10x Developer](http://muchtrans.com/10xdeveloper.html)
 - [IT 개발자를 위한 글쓰기 가이드](http://www.ciokorea.com/news/38600)
@@ -47,6 +48,7 @@
 -------
 
 ## 디자인
+- [크리에이티브 사이트](http://ppss.kr/archives/22637)
 - [디자인 가이드](https://p-j-m.github.io/design-compass/index.html)
 
 -------
