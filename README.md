@@ -140,3 +140,4 @@
 - [Large-scale Incremental Processing
 Using Distributed Transactions and Notifications](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36726.pdf)
 - [Software Engineering at Google](https://arxiv.org/pdf/1702.01715.pdf)
+- [The Architecture of eBay Search](http://www.cs.otago.ac.nz/homepages/andrew/papers/2017-8.pdf)
