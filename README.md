@@ -70,6 +70,7 @@
 -------
 
 ## Machine Learning
+- [Machine Learning Yearning 번역문서 목록](http://taewan.kim/docs/t_mly_00/)
 - [작정하고 쓰는 머신러닝 강의 비판 - 1](https://pabii.co/fraud-in-machine-learning-classes/)
 - [작정하고 쓰는 머신러닝 강의 비판 - 2](https://pabii.co/fraud-in-machine-learning-classes-2/)
 - [Machine Learning Rule](https://developers.google.com/machine-learning/rules-of-ml/)
