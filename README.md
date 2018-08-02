@@ -30,11 +30,13 @@
 - [주니어 개발자 인터뷰](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 - [Back-End 개발자 인터뷰](https://github.com/NESOY/Back-end-Developer-Interview-Questions)
 - [Web Developer RoadMap](https://github.com/kamranahmedse/developer-roadmap)
+- [React Developer RoadMap](https://github.com/adam-golab/react-developer-roadmap)
 - [DataScience 인터뷰](https://github.com/zzsza/Datascience-Interview-Questions)
 - [프로그래머가 되는 방법](https://wiki.kldp.org/wiki.php/HowToBeAProgrammer)
 -------
 
 ## 철학
+- [설레발 주도 개발](https://lazygyu.net/blog/hype_driven_development)
 - [프로그래머로 성장을 도왔던 태도들](http://ahnheejong.name/articles/becoming-better-programmer/)
 - [왜 제일 잘 하는 사람만 뽑는데도 좋은 팀이 꾸려지지 않을까?](http://newspeppermint.com/2018/02/05/bestpeopleleastresults/)
 - [Becoming a 10x Developer](http://muchtrans.com/10xdeveloper.html)
@@ -81,6 +83,7 @@
 -------
 
 ## Design Pattern & Architecture
+- [Test Driven Development - 너굴너굴님](https://repo.yona.io/doortts/blog/issue/2)
 - [TDD는 죽었는가?](http://jinson.tistory.com/271)
 - [카카오헤어샵의 DDD](https://brunch.co.kr/@cg4jins/7)
 - [Refactoring](https://refactoring.guru/)
