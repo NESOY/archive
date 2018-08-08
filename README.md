@@ -36,6 +36,7 @@
 -------
 
 ## 철학
+- [개발자 번아웃을 막는 방법](https://okky.kr/article/483477)
 - [설레발 주도 개발](https://lazygyu.net/blog/hype_driven_development)
 - [프로그래머로 성장을 도왔던 태도들](http://ahnheejong.name/articles/becoming-better-programmer/)
 - [왜 제일 잘 하는 사람만 뽑는데도 좋은 팀이 꾸려지지 않을까?](http://newspeppermint.com/2018/02/05/bestpeopleleastresults/)
