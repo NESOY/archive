@@ -51,6 +51,11 @@
 
 -------
 
+## 기획
+- [글로벌 서비스 기획시 고려사항](http://www.tdii.me/archives/54574)
+
+-------
+
 ## 디자인
 - [크리에이티브 사이트](http://ppss.kr/archives/22637)
 - [디자인 가이드](https://p-j-m.github.io/design-compass/index.html)
