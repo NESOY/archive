@@ -3,6 +3,7 @@
 
 ## Seminar
 #### 2018
+- [오픈소스, 줘도 못 먹나 - 오픈소스로 팀의 개발 생산성 높이기 by kenu 참석후기!](http://jojoldu.tistory.com/327)
 - [오픈소스에 한걸음 더: 2018 오픈소스 개발자 이야기를 다녀와서](https://brightparagon.wordpress.com/2018/07/07/2018-open-source/)
 - [TDD 잘알못을 위한 돌직구 세미나 참석 후기 - 창천향로님](http://jojoldu.tistory.com/306)
 - [AWSKRUG Review - 창천향로님](http://jojoldu.tistory.com/303)
