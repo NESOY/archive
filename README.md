@@ -3,6 +3,7 @@
 
 ## Seminar
 #### 2018
+- [오픈소스, 줘도 못 먹나 - 오픈소스로 팀의 개발 생산성 높이기 by kenu 참석후기!](http://jojoldu.tistory.com/327)
 - [오픈소스에 한걸음 더: 2018 오픈소스 개발자 이야기를 다녀와서](https://brightparagon.wordpress.com/2018/07/07/2018-open-source/)
 - [TDD 잘알못을 위한 돌직구 세미나 참석 후기 - 창천향로님](http://jojoldu.tistory.com/306)
 - [AWSKRUG Review - 창천향로님](http://jojoldu.tistory.com/303)
@@ -36,6 +37,8 @@
 -------
 
 ## 철학
+- [우리가 부르는 시니어 개발자는 누구인가?](http://woowabros.github.io/woowabros/2017/07/03/senior.html)
+- [개발자 번아웃을 막는 방법](https://okky.kr/article/483477)
 - [설레발 주도 개발](https://lazygyu.net/blog/hype_driven_development)
 - [프로그래머로 성장을 도왔던 태도들](http://ahnheejong.name/articles/becoming-better-programmer/)
 - [왜 제일 잘 하는 사람만 뽑는데도 좋은 팀이 꾸려지지 않을까?](http://newspeppermint.com/2018/02/05/bestpeopleleastresults/)
