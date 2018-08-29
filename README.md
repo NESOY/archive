@@ -92,6 +92,7 @@
 -------
 
 ## Design Pattern & Architecture
+- [신규 Web 서비스시 고려해 볼 사항](http://kwonnam.pe.kr/wiki/web/%EC%8B%A0%EA%B7%9C%EC%84%9C%EB%B9%84%EC%8A%A4)
 - [Test Driven Development - 너굴너굴님](https://repo.yona.io/doortts/blog/issue/2)
 - [TDD는 죽었는가?](http://jinson.tistory.com/271)
 - [카카오헤어샵의 DDD](https://brunch.co.kr/@cg4jins/7)
@@ -137,6 +138,9 @@
 
 #### VsCode
 - [VsCode Theme](https://vscodethemes.com/)
+
+### Tool
+- [VIM Guide](http://engineering.pivotal.io/post/all-i-do-is-vim/)
 
 -------
 ## Book
