@@ -109,6 +109,7 @@
 -------
 
 ## Retrospective
+- [2018 상반기 회고 - 이동욱님](https://jojoldu.tistory.com/332)
 - [2017 회고 - Nesoy님](https://nesoy.github.io/articles/2018-01/2017-retrospective)
 
 -------
