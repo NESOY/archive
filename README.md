@@ -110,6 +110,7 @@
 -------
 
 ## Retrospective
+- [2018 상반기 회고 - 이동욱님](https://jojoldu.tistory.com/332)
 - [2017 회고 - Nesoy님](https://nesoy.github.io/articles/2018-01/2017-retrospective)
 
 -------
@@ -122,6 +123,7 @@
 - [Hovercard](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk)
 - [Better History](https://chrome.google.com/webstore/detail/better-history/obciceimmggglbmelaidpjlmodcebijb)
 - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
+- [BookMark Sidebar](https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh?hl=ko)
 
 #### Mac
 - [Mac Setting](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)
