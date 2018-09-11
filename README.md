@@ -110,6 +110,7 @@
 -------
 
 ## Retrospective
+- [스포카에서는 회고를 어떻게 할까?](https://spoqa.github.io/2018/08/29/retrospect.html)
 - [2018 상반기 회고 - 이동욱님](https://jojoldu.tistory.com/332)
 - [2017 회고 - Nesoy님](https://nesoy.github.io/articles/2018-01/2017-retrospective)
 
