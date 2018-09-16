@@ -38,6 +38,7 @@
 -------
 
 ## 철학
+- [개발자에서 개발팀장이 되기까지 겪은 다섯가지 큰 실수](https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html)
 - [우리가 부르는 시니어 개발자는 누구인가?](http://woowabros.github.io/woowabros/2017/07/03/senior.html)
 - [개발자 번아웃을 막는 방법](https://okky.kr/article/483477)
 - [설레발 주도 개발](https://lazygyu.net/blog/hype_driven_development)
