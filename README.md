@@ -66,6 +66,8 @@
 -------
 
 ## Slide
+- [안정적인 서비스 운영](https://www.slideshare.net/cybaek/201403)
+- [점진적인 레거시 웹 애플리케이션 개선 과정 - 우아한 형제들](https://www.slideshare.net/arawnkr/ss-115339631)
 - [한국어 채팅 데이터로 머신러닝 하기](https://www.slideshare.net/hanseokjo5/little-big-data-1-94862151)
 - [Become a Backend Developer](https://speakerdeck.com/mingrammer/become-a-backend-developer)
 - [한국어와 NLTK, Gensim의 만남](https://www.lucypark.kr/docs/2015-pyconkr/#1)
