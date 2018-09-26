@@ -164,6 +164,7 @@
 ## Video
 - [Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E)
 - [Robert C Martin - Clean Architecture and Design](https://www.youtube.com/watch?v=Nsjsiz2A9mg)
+- [멀티스레딩 구조](https://www.youtube.com/watch?v=M1e9nmmD3II)
 
 -------
 ## Paper
