@@ -3,6 +3,7 @@
 
 ## Seminar
 #### 2018
+- [if Kakao - 창천향로님](https://jojoldu.tistory.com/335)
 - [2018 PyCon - 권태관님](https://taetaetae.github.io/2018/08/28/pycon-2018/)
 - [오픈소스, 줘도 못 먹나 - 오픈소스로 팀의 개발 생산성 높이기 by kenu 참석후기!](http://jojoldu.tistory.com/327)
 - [오픈소스에 한걸음 더: 2018 오픈소스 개발자 이야기를 다녀와서](https://brightparagon.wordpress.com/2018/07/07/2018-open-source/)
