@@ -131,6 +131,7 @@
 - [BookMark Sidebar](https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh?hl=ko)
 
 #### Mac
+- [Mac Setting 대마왕](https://github.com/nikitavoloboev/my-mac-os)
 - [Mac Setting](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)
 - [화면 보호기](https://plus.google.com/featuredphotos)
 - [Irvue](https://itunes.apple.com/kr/app/irvue/id1039633667?mt=12)
