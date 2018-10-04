@@ -26,6 +26,7 @@
 -------
 
 ## Interview
+- [좋은 개발팀을 만드는데 도움이 되는 자료](https://github.com/leehosung/awesome-devteam)
 - [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170)
 - [Google Interview University](https://github.com/daeseokyoun/google-interview-university/blob/master/README-kr.md)
 - [주니어 개발자를 위한 취업정보](https://github.com/jojoldu/junior-recruit-scheduler)
