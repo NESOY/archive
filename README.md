@@ -3,6 +3,7 @@
 
 ## Seminar
 #### 2018
+- [if Kakao - 창천향로님](https://jojoldu.tistory.com/335)
 - [2018 PyCon - 권태관님](https://taetaetae.github.io/2018/08/28/pycon-2018/)
 - [오픈소스, 줘도 못 먹나 - 오픈소스로 팀의 개발 생산성 높이기 by kenu 참석후기!](http://jojoldu.tistory.com/327)
 - [오픈소스에 한걸음 더: 2018 오픈소스 개발자 이야기를 다녀와서](https://brightparagon.wordpress.com/2018/07/07/2018-open-source/)
@@ -131,6 +132,7 @@
 - [BookMark Sidebar](https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh?hl=ko)
 
 #### Mac
+- [Mac Setting 대마왕](https://github.com/nikitavoloboev/my-mac-os)
 - [Mac Setting](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)
 - [화면 보호기](https://plus.google.com/featuredphotos)
 - [Irvue](https://itunes.apple.com/kr/app/irvue/id1039633667?mt=12)
@@ -167,6 +169,7 @@
 ## Video
 - [Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E)
 - [Robert C Martin - Clean Architecture and Design](https://www.youtube.com/watch?v=Nsjsiz2A9mg)
+- [멀티스레딩 구조](https://www.youtube.com/watch?v=M1e9nmmD3II)
 
 -------
 ## Paper
