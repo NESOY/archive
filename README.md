@@ -3,6 +3,7 @@
 
 ## Seminar
 #### 2018
+- [개발자 채용시 기술검증에 대해](https://jojoldu.tistory.com/285)
 - [if Kakao - 창천향로님](https://jojoldu.tistory.com/335)
 - [2018 PyCon - 권태관님](https://taetaetae.github.io/2018/08/28/pycon-2018/)
 - [오픈소스, 줘도 못 먹나 - 오픈소스로 팀의 개발 생산성 높이기 by kenu 참석후기!](http://jojoldu.tistory.com/327)
