@@ -3,6 +3,7 @@
 
 ## Seminar
 #### 2018
+- [지난 3년의 기록: 대기업에서 스타트업으로](https://brightparagon.wordpress.com/2018/09/27/movetostartup/)
 - [개발자 채용시 기술검증에 대해](https://jojoldu.tistory.com/285)
 - [if Kakao - 창천향로님](https://jojoldu.tistory.com/335)
 - [2018 PyCon - 권태관님](https://taetaetae.github.io/2018/08/28/pycon-2018/)
