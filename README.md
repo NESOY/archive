@@ -3,7 +3,6 @@
 
 ## Seminar
 #### 2018
-- [지난 3년의 기록: 대기업에서 스타트업으로](https://brightparagon.wordpress.com/2018/09/27/movetostartup/)
 - [개발자 채용시 기술검증에 대해](https://jojoldu.tistory.com/285)
 - [if Kakao - 창천향로님](https://jojoldu.tistory.com/335)
 - [2018 PyCon - 권태관님](https://taetaetae.github.io/2018/08/28/pycon-2018/)
@@ -41,7 +40,8 @@
 - [프로그래머가 되는 방법](https://wiki.kldp.org/wiki.php/HowToBeAProgrammer)
 -------
 
-## 철학
+## 철학 & 생각.
+- [지난 3년의 기록: 대기업에서 스타트업으로](https://brightparagon.wordpress.com/2018/09/27/movetostartup/)
 - [개발자에서 개발팀장이 되기까지 겪은 다섯가지 큰 실수](https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html)
 - [우리가 부르는 시니어 개발자는 누구인가?](http://woowabros.github.io/woowabros/2017/07/03/senior.html)
 - [개발자 번아웃을 막는 방법](https://okky.kr/article/483477)
