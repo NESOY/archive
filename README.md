@@ -170,6 +170,7 @@
 
 -------
 ## Video
+- [if kakao dev 2018](https://tv.kakao.com/channel/3150758/cliplink/390279232?playlistId=209907&metaObjectType=Playlist)
 - [Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E)
 - [Robert C Martin - Clean Architecture and Design](https://www.youtube.com/watch?v=Nsjsiz2A9mg)
 - [멀티스레딩 구조](https://www.youtube.com/watch?v=M1e9nmmD3II)
