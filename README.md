@@ -28,6 +28,7 @@
 -------
 
 ## Interview
+- [카카오 경력직 공채 후기](https://encyphered.github.io/blog/note/2018/09/26/kakao-interview-review.html?fbclid=IwAR33DWMOO93o4dEEx3U9puioa5LjFdSLgoZsFhjbGq58-nBka6J9_J1J8s4)
 - [좋은 개발팀을 만드는데 도움이 되는 자료](https://github.com/leehosung/awesome-devteam)
 - [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170)
 - [Google Interview University](https://github.com/daeseokyoun/google-interview-university/blob/master/README-kr.md)
@@ -170,6 +171,7 @@
 
 -------
 ## Video
+- [넷플릭스 마이크로 서비스 가이드 혼돈의 제왕](https://youtu.be/OczG5FQIcXw)
 - [if kakao dev 2018](https://tv.kakao.com/channel/3150758/cliplink/390279232?playlistId=209907&metaObjectType=Playlist)
 - [Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E)
 - [Robert C Martin - Clean Architecture and Design](https://www.youtube.com/watch?v=Nsjsiz2A9mg)
