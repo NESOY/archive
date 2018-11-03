@@ -114,9 +114,15 @@
 
 -------
 
+
 ## Database
 - [샤딩은 어떻게 동작하는가?](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
 - [RDB부터 검색엔진까지 내게 꼭 맞는 DB고르기](http://www.ciokorea.com/news/38041)
+
+-------
+
+## Linux
+- [Linux Performance Analysis in 60,000 Milliseconds](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
 
 -------
 
