@@ -175,6 +175,7 @@
 - [켄트 벡의 구현 패턴](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1706106)
 - [실용주의 프로그래머](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=38786788)
 - [Effective Java](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=45350567)
+- [객체지향의 사실과 오해](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=60550259)
 
 
 -------
