@@ -39,6 +39,7 @@
 - [React Developer RoadMap](https://github.com/adam-golab/react-developer-roadmap)
 - [DataScience 인터뷰](https://github.com/zzsza/Datascience-Interview-Questions)
 - [프로그래머가 되는 방법](https://wiki.kldp.org/wiki.php/HowToBeAProgrammer)
+
 -------
 
 ## 철학 & 생각.
@@ -70,6 +71,7 @@
 ## 디자인
 - [크리에이티브 사이트](http://ppss.kr/archives/22637)
 - [디자인 가이드](https://p-j-m.github.io/design-compass/index.html)
+
 
 -------
 
@@ -103,6 +105,7 @@
 -------
 
 ## Design Pattern & Architecture
+- [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
 - [신규 Web 서비스시 고려해 볼 사항](http://kwonnam.pe.kr/wiki/web/%EC%8B%A0%EA%B7%9C%EC%84%9C%EB%B9%84%EC%8A%A4)
 - [Test Driven Development - 너굴너굴님](https://repo.yona.io/doortts/blog/issue/2)
 - [TDD는 죽었는가?](http://jinson.tistory.com/271)
