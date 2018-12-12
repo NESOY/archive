@@ -43,7 +43,7 @@
 -------
 
 ## 철학 & 생각.
-- [](https://brunch.co.kr/@hyungsukkim/20)
+- [A급 인재를 떠나게 하는 7가지 방법](https://brunch.co.kr/@hyungsukkim/20)
 - [야크 털 깍기](https://www.lesstif.com/pages/viewpage.action?pageId=29590364)
 - [왜 배워도 못하는가? - 김창준님](https://www.facebook.com/cjunekim/posts/1279945138700717)
 - [지난 3년의 기록: 대기업에서 스타트업으로](https://brightparagon.wordpress.com/2018/09/27/movetostartup/)
