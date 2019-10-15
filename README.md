@@ -105,6 +105,7 @@
 - [Kaggle](https://www.kaggle.com/)
 - [Machine Learning은 즐겁다](https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-1-9a0297198ad8)
 - [Kakao Brain Blog](http://kakaobrain.com/blog)
+- [Machine Learning Problem Framing from Google](https://developers.google.com/machine-learning/problem-framing/)
 
 -------
 
@@ -118,6 +119,7 @@
 - [Clean Code](https://www.gitbook.com/book/kwosu87/clean-code)
 - [10가지 소프트웨어 아키텍쳐 패턴 요약](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell/)
 - [What Powers Instagram: Hundreds of Instances, Dozens of Technologies](https://instagram-engineering.com/what-powers-instagram-hundreds-of-instances-dozens-of-technologies-adf2e22da2ad)
+- [Beginners Guide to Popular Design Patterns for Web Developers](http://www.lucemorker.com/blog/beginners-guide-to-popular-design-patterns-for-web-developers)
 
 -------
 
