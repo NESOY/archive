@@ -39,6 +39,8 @@
 - [React Developer RoadMap](https://github.com/adam-golab/react-developer-roadmap)
 - [DataScience 인터뷰](https://github.com/zzsza/Datascience-Interview-Questions)
 - [프로그래머가 되는 방법](https://wiki.kldp.org/wiki.php/HowToBeAProgrammer)
+- [Hackerrank is good place for preparing to pass interview online coding tests](https://www.hackerrank.com)
+- [LettCode has become even more popular place for online coding tests](https://leetcode.com)
 
 -------
 
